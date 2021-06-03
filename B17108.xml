@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions on two late books one called Remarques &amp;c., to which is added notes on some humors and conversations of the countrey, the other called Reflections on marriage, and poetick discipline : in two letters to Sir T.L.</title>
+         </titleStmt>
+         <extent>Approx. 43KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17108</idno><idno type="EEBO-CITATION">8444093</idno>
+  <idno type="VID">204280</idno>
+  <idno type="EEBO-PROQUEST">2264214726</idno>
+  
+            <idno type="STC">Wing A3200</idno>
+            <idno type="OCLC">08444093</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1245:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions on two late books one called Remarques &amp;c., to which is added notes on some humors and conversations of the countrey, the other called Reflections on marriage, and poetick discipline : in two letters to Sir T.L.</title>
+                  <author>T. L., Sir.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.C. for William Hensman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Remarques &amp;c.</term>
+               <term type="uniform_title">Reflections on marriage and poetick discipline.</term>
+               <term type="topical_term">Criticism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204280:1"/>
+            <pb facs="tcp:204280:2"/>
+            <pb facs="tcp:204280:2"/>
+            <p>
+               <hi>Animadversions on two late Books,</hi> One called REMARQUES, <hi>&amp;c.</hi>
+            </p>
+            <p>To which is added <hi>NOTES</hi> On some <hi>Humors</hi> and <hi>Conversations</hi> OF THE COUNTREY.</p>
+            <p>The other called Reflections on Marriage, and Poetick Discipline.</p>
+            <p>In two LETTERS to Sir <hi>T. L.</hi>
+            </p>
+            <q>Scribimus indocti doctique, <hi>&amp;c.</hi>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>A. C.</hi> for <hi>William Hensman,</hi> at the Kings Head in <hi>Westminster Hall.</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204280:3"/>
+            <pb n="1" facs="tcp:204280:3"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my last to you I have seen <hi>another</hi> Let<g ref="char:EOLhyphen"/>ter from your old Friend, which some bo<g ref="char:EOLhyphen"/>dy or other has <hi>serv'd</hi> as they did the for<g ref="char:EOLhyphen"/>mer, and made a Book on't too.</p>
+            <p>As soon as I saw it, <hi>bless me,</hi> think I, what a <hi>pud<g ref="char:EOLhyphen"/>der</hi> is here of troubling this Gentleman with so ma<g ref="char:EOLhyphen"/>ny long printed <hi>Letters:</hi> If this trade goes on, he'l have his Study so <hi>stuft</hi> with them, as no room may be left for <hi>good Books.</hi> Well, Sir, but <hi>think</hi> I fur<g ref="char:EOLhyphen"/>ther, why should I add to the number: and indeed I intended to write no more in that way: but pray Sir give me your pardon for this <hi>small</hi> one more and I have done.</p>
+            <p>And if this, Sir, should seem <hi>Contest</hi> with my brother Writer, I desire your belief that the Con<g ref="char:EOLhyphen"/>test lies only in serving you, which service may appear two ways.</p>
+            <p>First, It's to be hoped he may be hereby pre<g ref="char:EOLhyphen"/>vailed with to write no more, and so save some trouble to you and <hi>many</hi> more.</p>
+            <p>Secondly, For that you may not be at leisure to read out so large a writing; I have (for your ease) <hi>abridg'd</hi> it, and taken leave to <hi>postil</hi> a lit<g ref="char:EOLhyphen"/>tle thereupon.</p>
+            <p>Sir, you may remember that the last time we conferr'd, I made bold to make several guesses at the <hi>man</hi> of Masquerade, and I'm told I was <hi>quite</hi> out in all: I scratched my head thereupon, and bethought my self again, and after that it came into my mind, and without more ado I take him for a Gentleman, and a Gentleman who has found <hi>some Generosity about him,</hi> as he says, but (I fear)
+<pb n="2" facs="tcp:204280:4"/>not that <hi>Generosity</hi> (as he says) which <hi>none more dextrous has done to perform an act of so much Justice</hi> (as to write of <hi>Marriage,</hi> he means) and there<g ref="char:EOLhyphen"/>fore I cannot at present set my hand to that saying of his, <hi>viz.</hi> That <hi>he wrote not out of affectation or bu<g ref="char:EOLhyphen"/>sie humour,</hi> for reasons enough.</p>
+            <p>And I guess him further to be a descendant of some Clergy-man, (and ne're the less Gentleman) for he seems to have a piece of the <hi>sermonizing</hi> fa<g ref="char:EOLhyphen"/>culty entailed on him, though it vents it self mostly in <hi>uses</hi> of <hi>Reproof,</hi> and little <hi>Consolation,</hi> but to dear <hi>Antonia.</hi>
+            </p>
+            <p>And now, Sir, for the grounds of my scruple, why I think he wrote not without <hi>Affectation or bu<g ref="char:EOLhyphen"/>sie humour.</hi>
+            </p>
+            <p>First, Sir, I find more <hi>dexterous pens</hi> have found more <hi>Generosity</hi> to the same purpose, and have had more <hi>success,</hi> (not to mention what is in the sacred <hi>leaves,</hi> nor the ancient and later Writers of the Christian Church, nor the learned Heathens) there is a <hi>Dramatist</hi> (now living) even the <hi>Poet,</hi> whose <hi>fault</hi> was lately his <hi>Acuracy</hi> in <hi>Poem,</hi> who by a wo<g ref="char:EOLhyphen"/>man in one <hi>Act</hi> has said much more for <hi>Marriage</hi> then he, or perhaps his <hi>Country Parson</hi> can do.</p>
+            <p>And it seems <hi>much</hi> to me, that <hi>he</hi> should meddle with any thing, on which the <hi>Comical Wits</hi> had breathed.</p>
+            <p>There is also a late Book, wrote by a <hi>Lawyer</hi> (whose profession he so <hi>prophanely</hi> and basely Libels) 'tis called <hi>Moral Gallantry,</hi> in less then 20 pages whereof there is more sense, solidity, and true Elo<g ref="char:EOLhyphen"/>quence than in his 198.</p>
+            <p>And lastly (for an unanswerable testimony) there is a late Book called <hi>Remarques,</hi> &amp;c. that has as much in few pages as in all his last; so that whether it was <hi>affectation</hi> or <hi>busie humour,</hi> to strive to <hi>outdo</hi> or <hi>undo,</hi> what himself had better done, I know no more than others: yet this I know, that <hi>Phantastes</hi>
+               <pb n="3" facs="tcp:204280:4"/>(in the Comedy) fanci'd he could go further be<g ref="char:EOLhyphen"/>yond the Artick Circle than <hi>Geographus</hi> his Master could do.</p>
+            <p>Secondly, As to <hi>Affectation and busie humour,</hi> let's survey his Book in general, and <hi>mode</hi> of writing, and we shall see, that as ill as he treats the <hi>New Philosophers,</hi> he would be <hi>nibling;</hi> for by the help of a <hi>Microscopial Rhetorick</hi> he has <hi>Magnified Ovids</hi> Flea ten times as big as Mr. <hi>Hook</hi>'s.</p>
+            <p>He had blown a serviceable Grain of Nitrous compound into a huge smoke, to dazzle eyes, but (like the famous powder of <hi>Alphonsus</hi>) is not of force enough to kill a Chicken.</p>
+            <p>A little Bird (that of <hi>Paradise,</hi> if you will, for there 'twas bred) he makes (like the hungry Philo<g ref="char:EOLhyphen"/>sopher) to be <hi>vox &amp; praeterea nihil.</hi> He abounds so with <hi>Identical</hi> phrases, as if he design'd an <hi>Echo</hi> like that in the Gallery at <hi>Constantinople,</hi> to repeat one word seven times over: as if he intended to ring <hi>Changes</hi> on the Alphabet, but (ill luck as it is) the Musick is marr'd, by several <hi>Clanks</hi> returning too often out of their course; as <hi>Votaries, Chimera's, Conduct, Idaea, Important Concernments, Spectres, Pun<g ref="char:EOLhyphen"/>ctilio's,</hi> &amp;c. some coming ten times over.</p>
+            <p>But (especially) the <hi>Circle</hi> turns round and round again, and (which is <hi>waggishly</hi> observed by some <hi>Wits,</hi> at whom he quirks) this <hi>Marriage Circle</hi> he so often repeats, they account the best Argument he uses for <hi>Marriage.</hi>
+            </p>
+            <p>Thirdly, For the <hi>Affectation</hi> and <hi>busie humour,</hi> he <hi>Perriwigs</hi> his leaves with dead mens <hi>Locks,</hi> and tells not whose they were, and so some think they may be imposed upon, and that is, when he tells of the <hi>In<g ref="char:EOLhyphen"/>humane Greek,</hi> the Phantastick Roman, the <hi>Noble Greek,</hi> the <hi>Prince of the Blood,</hi> the <hi>Darling of Man<g ref="char:EOLhyphen"/>kind,</hi> the <hi>African and Gothick Hero,</hi> the <hi>Barbarian,</hi> the <hi>Generous Corinthian,</hi> the <hi>Wretched Gamester,</hi> he that <hi>was rock'd in the Cradle,</hi> and they think this is
+<pb n="4" facs="tcp:204280:5"/>
+               <hi>Affectation;</hi> for my part I account it no great fault, I doing so too; where 'tis not fit to <hi>name</hi> persons, or where I can't; only I remember a drolling <hi>witicism</hi> thrown at one on such an occasion, speak<g ref="char:EOLhyphen"/>ing to his boy thus,
+<q>
+                  <lg>
+                     <l>Deminitive or my defective slave</l>
+                     <l>Fetch my Corps Coverture immediately,</l>
+                     <l>It's my Complacency that rest to have</l>
+                     <l>T' insconce my person from frigidity.</l>
+                  </lg>
+                  <lg>
+                     <l>The Boy thought all was <hi>Welch</hi> his Master spoke</l>
+                     <l>Till he rayl'd English, <hi>Rogue go fetch my cloke.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </p>
+            <p>Come we now to the particulars of his last <hi>La<g ref="char:EOLhyphen"/>bours,</hi> and first of his <hi>Epistle.</hi>
+            </p>
+            <p>He was writing it (it seems) and it came into his thoughts (by some impulse) that he was <hi>Censured, as taxing the whole Town with the blemishes of some:</hi> and having wrote (as he says) so far—and just so far and no further, the <hi>Answer of Remarques</hi> came to him, and told him just as before he thought.</p>
+            <p>Hence, Sir, may easily be concluded the Philoso<g ref="char:EOLhyphen"/>phy of <hi>Spirits</hi> and the Communication of those Airy Intelligencers.</p>
+            <p>But whether it was <hi>Castor and Pollux</hi> (who (they say) brought to <hi>Rome</hi> from <hi>Macedonia,</hi> which was 2500 miles in one day, the Victory against King <hi>Per<g ref="char:EOLhyphen"/>seus</hi>) or whether it was the spirit of <hi>Mascou,</hi> (who used to carry Commendations, tell of Sack-possets, and go of the lesser errands) who informed our Au<g ref="char:EOLhyphen"/>thor I know not, but I dare say it was not the <hi>Drummer</hi> of <hi>Tedworth,</hi> for he might (with his rat<g ref="char:EOLhyphen"/>ling) have caused <hi>trouble and surprize:</hi> and it seems here was no <hi>trouble</hi> nor <hi>surprize:</hi> yet had it not been said so, one might have thought, the coming of that Book from <hi>London</hi> might have caused as much <hi>trouble and surprize</hi> as the news of your going
+<pb n="5" facs="tcp:204280:5"/>to <hi>London,</hi> Sir, did in the last Letter. Well, though no <hi>Trouble or Surprize,</hi> yet a little <hi>Heat,</hi> it seems, seized him, but (thanks to a good healthy Country-Con<g ref="char:EOLhyphen"/>stitution) the <hi>paroxisme</hi> was soon over, and the cause of the <hi>Heat</hi> was an <hi>Epistle.</hi>
+            </p>
+            <p>A good luck take <hi>Epistles</hi> for me, I think there's none of 'em but displease some body, I perceive I was <hi>mistaken,</hi> and my <hi>Faculty lies not that way,</hi> and for that cause I have taken a course with the <hi>Epistle,</hi> and have made amends with this short <hi>Post<g ref="char:EOLhyphen"/>script.</hi>
+            </p>
+            <p>But, Sir, as to <hi>your</hi> friend, I profess, I think, I like his <hi>Epistle</hi> (even this angry <hi>Epistle</hi>) better than his Book; therefore I think it may be better for him to write only <hi>Epistles,</hi> and I'le write only Books, and so we may club, and that's fair.</p>
+            <p>Sir, I find next the <hi>Marriage Circle</hi> had so brisk'd him, that he could not let a fair Lady (innocent in our affair) alone, who (I must tell him) is of more <hi>honour</hi> than <hi>Antonia,</hi> because <hi>Married,</hi> or else I'le burn his Book, and is also every whit as virtuous.</p>
+            <p>But why may not I show my regard to <hi>Catharina</hi> as well as he to <hi>Antonia;</hi> why may not I worship the <hi>fruitful vine</hi> in the Sun-shine, as well as he the <hi>barren fig-tree</hi> in the <hi>shade.</hi>
+            </p>
+            <p>Then comes he <hi>gently</hi> to my Book (perhaps he's whetting his Pownces) at present he says 'tis a con<g ref="char:EOLhyphen"/>tinued <hi>mistake.</hi>
+            </p>
+            <p>A <hi>mistake</hi> there is in the case, that's <hi>plain,</hi> if on my side, it's my want of knowledge in <hi>Grammar</hi> and of my <hi>native Language;</hi> for I was told that <hi>Age, Nation, Town</hi> indefinitely, imported <hi>all</hi> or the grea<g ref="char:EOLhyphen"/>ter part; and I never heard that <hi>All</hi> was Latine for <hi>some,</hi> till the Calvinistical distinction of <hi>singula Ge<g ref="char:EOLhyphen"/>nerum,</hi> and <hi>Genera singulorum</hi> came up, which <hi>Jacob van Harman</hi> swears by all the blood in his bones, is non-sense; and I vow I believ'd him, and do so still.</p>
+            <p>Well, Sir, I find some mens heads are full of <hi>Pro<g ref="char:EOLhyphen"/>clamations,</hi>
+               <pb n="6" facs="tcp:204280:6"/>and out skips a piece of one of King <hi>Charles</hi> the First, That <hi>Country Gentlemen should re<g ref="char:EOLhyphen"/>side on their Estates,</hi> and well it was done; and I have known a time when such another might be sea<g ref="char:EOLhyphen"/>sonable and requisite, for many reasons, particu<g ref="char:EOLhyphen"/>larly to cause a Circulation of money, which other<g ref="char:EOLhyphen"/>wise comes all in specie to <hi>London,</hi> and thereby the Nation seems to have the <hi>Rickets.</hi>
+            </p>
+            <p>But, I pray Sir, let him tell us, if there was in it a prohibition, or any <hi>trouble</hi> or <hi>surprize,</hi> that young unmarried Country <hi>Gentlemen</hi> should not receive Education at the Inns of Court or other Societies of Learning in <hi>London?</hi> he was too great a Scholar, and too wise a Prince to confine dextrous youth to <hi>riding after a Deer,</hi> as you were advised, and so to prevent a succession of <hi>Counsellors</hi> for his <hi>Crown.</hi>
+            </p>
+            <p>Next, Sir, <hi>If</hi> you and the Gentleman go on <hi>board his Majesties Fleet this Spring,</hi> what then? why then <hi>if</hi> it falls out so (and 'tis with an <hi>If</hi>) and <hi>if</hi> the power of his <hi>Steel</hi> be as formidable as that of his <hi>Pen,</hi> great Atchievements may be expected from him; for I doubt not in the least (such a good opinion have I of him) that he can with as much ease come off victoriously, if the Dutch fight not, as main<g ref="char:EOLhyphen"/>tain <hi>Marriage</hi> lawful when no body denies it.</p>
+            <p>But I was thinking of another <hi>If,</hi> and that is, what <hi>if</hi> this Gentleman be not there? why then I be thought my self again, that as <hi>good</hi> and as <hi>stout</hi> might be there in his room: and for one <hi>If</hi> more, with good leave.</p>
+            <p>Sir, <hi>If</hi> indeed you and he be there, I wish ye like the fortunate Knight of <hi>Naples, Don Garsia de Toledo,</hi> If one wave throws ye over-board, another wave may throw ye in again.</p>
+            <p>To conclude the Epistle, Sir, and for certain <hi>Apology</hi> for <hi>over-sights, failings</hi> and what you please; his Book it seems was <hi>mended</hi> and <hi>altered,</hi> and so in a <hi>manner</hi> was <hi>Printed against his desire.</hi>
+            </p>
+            <pb n="7" facs="tcp:204280:6"/>
+            <p> Sir, I'm so good natur'd as to allow the same excuse for <hi>this</hi> Book too, <hi>if</hi> he will do no more so; and so I'le run that over and have done with him or not as he pleases: for though I was but a <hi>begin<g ref="char:EOLhyphen"/>ner</hi> t'other day, yet methinks I can do such jobs as these with a wet finger.</p>
+            <p>Advance we then to the second Epistle, to consi<g ref="char:EOLhyphen"/>der on't: <hi>Consider on't,</hi> said I? It requires <hi>conside<g ref="char:EOLhyphen"/>ration</hi> indeed; he said true, when he said he had <hi>Entertained Antonia in an unusual manner,</hi> it seems like a Mock to a <hi>Sybil</hi> it sounds like some <hi>Charm. Cato</hi> said three Inchanted words would cure the eye-sight, and <hi>Varro,</hi> that a verse of the Sybils would cure the Gout. And who knows but this <hi>Epistle</hi> was designed to cure the <hi>Itch</hi> of the <hi>Marri<g ref="char:EOLhyphen"/>age Circle,</hi> for from the oraculous contexture of words, it seems, as if a pair of Gelt Turtles in their <hi>Privacies</hi> (by the power of that <hi>Love which reigns in their united hearts</hi>) were solacing themselves, in the best sense they can make of their conditions, and so admiring their own <hi>Justice, Fidelity, Virtues,</hi> the <hi>Ornaments of their Breasts,</hi> preserved like <hi>Trea<g ref="char:EOLhyphen"/>sure under ground,</hi> like <hi>snow in cold houses,</hi> and <hi>surpassing the words of Romance;</hi> seeming neverthe<g ref="char:EOLhyphen"/>less to make <hi>necessity</hi> a principal <hi>vertue,</hi> while they <hi>regret the difficulty</hi> of attaining to <hi>t'other state:</hi> yet excusing themselves by their <hi>Affairs,</hi> which (they say) <hi>Conceal the Clue that should let them out of the La<g ref="char:EOLhyphen"/>byrinth,</hi> and (to prevent obloquy) give themselves out for <hi>Votaries</hi> to the <hi>open State,</hi> commending the <hi>Divinity</hi> of it, declaring their <hi>obsequious respects</hi> to it; yet concluding that <hi>single life</hi> has <hi>Equal Beauty,</hi> and and that they have <hi>taken other Measures of a just</hi> and and happy life; they have committed the <hi>immor<g ref="char:EOLhyphen"/>tality of their (unmarried) Love,</hi> to <hi>perpetual abiding Letters</hi> (meaning this Epistle) <hi>more durable than Marble.</hi>
+            </p>
+            <pb n="8" facs="tcp:204280:7"/>
+            <p> Thus, Sir, is innocent Country modesty pleased to speak of it self, for lack of neighbours.</p>
+            <p>Thus are the Encomiums of a <hi>single life</hi> a fit pre<g ref="char:EOLhyphen"/>face to a <hi>Book</hi> on behalf of <hi>Marriage, especially</hi> while the Book says, page 64. the <hi>peculiar wandring hu<g ref="char:EOLhyphen"/>mors and dispositions of unrest in that (single) life.</hi> page 90. <hi>Its sullenness in private life not Gallantry:</hi> and 114. <hi>Those that want Marriage are to seek in the Turns of humane affairs, and the artful traverses of glo<g ref="char:EOLhyphen"/>ry:</hi> and page 173. <hi>Marriage knows all the traverses and turns of humane affairs:</hi> and page 116. the <hi>Crafty Italian (being Married) with his single Conduct wound about the bravery and vigour of the French Affairs:</hi> and page 86. <hi>The Inventions of them who enjoy per<g ref="char:EOLhyphen"/>petual vacation from affairs has been mischief to the world, and remain a reproach to idle speculation.</hi>
+            </p>
+            <p>Thus our Architect is <hi>out,</hi> either in the <hi>Porch,</hi> or in the <hi>house,</hi> chuse you whether.</p>
+            <p>So soon may a man <hi>lose</hi> himself in <hi>Dodona's Grove,</hi> so easie 'tis for a little <hi>sence</hi> to be labyrinth'd in a wilderness of Talk: to which we now come, <hi>i. e.</hi> to <hi>the Book.</hi>
+            </p>
+            <p>And it seems the Book was occasion'd by a diver<g ref="char:EOLhyphen"/>tisement with a <hi>Modern Philosopher,</hi> but what man<g ref="char:EOLhyphen"/>ner of <hi>Philosopher</hi> this was, is hard to judge; for had it been a <hi>Modern</hi> (called <hi>Mechanick</hi>) <hi>Philosopher,</hi> he would have advised, that a subject, so <hi>sacred,</hi> should have been handled <hi>gravely</hi> and <hi>substantially,</hi> with reference to its institution and ends. And if he had bent his strength against some <hi>few</hi> extrava<g ref="char:EOLhyphen"/>gants, by Arguments of another <hi>hue,</hi> more ade<g ref="char:EOLhyphen"/>quate to their Genius: such a <hi>Philosopher</hi> would have advised to use proper <hi>mediums,</hi> and to argue more <hi>logically:</hi> And withal such a <hi>Philosopher</hi> might have (with prudence enough) insinuated, that for the sake of <hi>every</hi> idle person differing from the ge<g ref="char:EOLhyphen"/>nerality of the <hi>Age</hi> in some <hi>one</hi> sentiment or other, not destructive to the Community, it's not fit to trouble the sober part with a Book.</p>
+            <pb n="9" facs="tcp:204280:7"/>
+            <p> Therefore, I rather think, Sir, that by <hi>Modern Philosopher,</hi> he intended what <hi>Country Folk</hi> call by Irony, <hi>notable Philosopher</hi> to be some <hi>simpleton:</hi> And its strange to see the danger of keeping (even but) <hi>silly</hi> company, for they say <hi>Gallus Villius,</hi> by imita<g ref="char:EOLhyphen"/>ting mad men became mad.</p>
+            <p>But Sir, a <hi>Theme</hi> was started, it seems whether by <hi>Writer</hi> or <hi>Philosopher,</hi> no great matter, and the Theme <hi>wanted Assistance,</hi> as was thought, and some body there is (may be one or two in this Age or Nation) that have (in drolling humour 'tis like) spoken <hi>Irreverently</hi> of <hi>Marriage:</hi> This Alarms our Author who (in <hi>trouble</hi> and <hi>surprize</hi>) feared this vile <hi>Praterost,</hi> was as dangerous as the <hi>Spanish Ewe,</hi> brought over in 1275. which being rotten, was the first in <hi>England,</hi> and the Murrain from thence, which lasted 28 years; therefore cries he, O the <hi>Nation,</hi> the <hi>Age,</hi> the <hi>Town, Barbarous, Vile, Pro<g ref="char:EOLhyphen"/>phane; Marriage appears to the Author to be run down by a popular practice and Contempt,</hi> and he finds the <hi>Generosity about him to do an act of so much Justice</hi> as none <hi>more dexterous</hi> has done: to work he must go, and assist the Theme; so comes he
+<q>
+                  <l>—To prove by force</l>
+                  <l>Of Argument, a man's no horse.</l>
+               </q>
+            </p>
+            <p>And to effect this he cannot (he says) <hi>furnish the discourse with any Experience of his own,</hi> nor never intends it, by his discourse with <hi>Antonia.</hi>
+            </p>
+            <p>Alas poor <hi>Theme</hi> that should want <hi>Assistance</hi> and should find none, but of an Adversary, or <hi>it</hi> knows not whom.</p>
+            <p>I remember this Author elsewhere says, <hi>He that stands on high, sees more of a show than one that is in it:</hi> so one, that from a Mount saw the Marriage in <hi>Cana</hi> knew more (perhaps) of it than any was there; and it may be our Writer may fancy wedding <hi>Feasts,</hi> though not the <hi>Garments.</hi>
+            </p>
+            <p>Sir, I am a <hi>Batchelor</hi> also, and owe as great <hi>votes</hi>
+               <pb n="10" facs="tcp:204280:8"/>to the married state as another, and I resolve as soon as I can obtain a woman <hi>circumstanced</hi> answer<g ref="char:EOLhyphen"/>able to my expectations, to change my condition: and in the mean time, I <hi>dare</hi> not say that any bra<g ref="char:EOLhyphen"/>very in <hi>single life,</hi> or vertuous designments, makes me not marry.</p>
+            <p>In plain English Sir, I find Ladies plaguy <hi>Coy,</hi> and therefore I would desire the Gentleman (pray Sir move him to it) that (if ever he write again) he would write to that <hi>Sex</hi> to be as <hi>virtuous</hi> as they please, but not so <hi>nice;</hi> by that means <hi>his Pen may</hi> (more likely) <hi>purchase the owner the Immortal Fame of a Here.</hi> O how generous a Task would he take upon him, how obliging to the <hi>Modest</hi> to facilitate their Addresses to the <hi>Coy,</hi> and the Addresses of the <hi>Sparkish</hi> to the more reserved.</p>
+            <p>Let him obtain this, and I'le warrant Marriage's business done to the life; in the interim to show the <hi>dexterousness</hi> of <hi>Pen,</hi> and the <hi>Generosity</hi> of Wri<g ref="char:EOLhyphen"/>ter, beside skill in <hi>Logick</hi> and <hi>History,</hi> some argu<g ref="char:EOLhyphen"/>ments are framed to prove <hi>Marriage</hi> lawful, just, convenient, and useful. O mighty task.</p>
+            <p>But first, Sir, its to be understood that <hi>Marriage</hi> and <hi>Uxoriousness</hi> is to be accounted all one. Se<g ref="char:EOLhyphen"/>condly, that <hi>Uxoriousness</hi> and <hi>Effeminacy</hi> are not all one. Thirdly, that <hi>Uxoriousness</hi> is made to com<g ref="char:EOLhyphen"/>prehend <hi>all</hi> morality and virtue.</p>
+            <p>Truth on't is, till this time I took <hi>Uxoriousness</hi> to be a fault, and it was the greatest that could be <hi>devised</hi> by the <hi>worst</hi> of men, against the <hi>best</hi> of Prin<g ref="char:EOLhyphen"/>ces; who said he was not fit to hold a <hi>Scepter</hi> who could not govern a <hi>Distaff:</hi> And a witty Clergy<g ref="char:EOLhyphen"/>man said that <hi>Apron-string</hi> Tenure is worse than <hi>Bond,</hi> or that of <hi>Vassalage;</hi> so much is holding at the will of the <hi>Lady</hi> worse than at the will of the <hi>Lord.</hi>
+            </p>
+            <p>But taking <hi>Uxoriousness</hi> for a due and prudent Management of the conjugal state, the first main
+<pb n="11" facs="tcp:204280:8"/>Argument is <hi>page</hi> 39. <hi>The four great Empires of the world flourished with greatest bravery, when they were most virtuous, and their Greatness declined with their Morals:</hi> therefore <hi>Uxoriousness</hi> was the <hi>sole</hi> cause of their flourishing.</p>
+            <p>As to this (to do him all the right) though it be a naughty <hi>syllogism,</hi> and like <hi>Seton</hi>'s <hi>syllable eating the Cheese,</hi> yet a vertuous observation of <hi>Marriage</hi> may do a deal of good.</p>
+            <p>Next, Sir, <hi>Marriage helps learning,</hi> of which the Gentleman himself may be a <hi>prime</hi> instance, for we see what he <hi>wants,</hi> and he says he's not <hi>married.</hi>
+            </p>
+            <p>But it <hi>helps learning,</hi> for it <hi>tempers the wit,</hi> and though it may <hi>dull the fancy,</hi> yet that is but <hi>Cashier<g ref="char:EOLhyphen"/>ing of madness,</hi> he says.</p>
+            <p>So that its come to now, either <hi>Marriage</hi> or <hi>Mad<g ref="char:EOLhyphen"/>ness;</hi> but I hope, Sir, 'tis but the <hi>madness</hi> of a <hi>March</hi> Hare; but still it <hi>helps learning:</hi> And though my <hi>Lord Bacon</hi> wholly overslipt it in his <hi>Advancement of Learning,</hi> yet <hi>Socrates</hi> makes it out clearly; and now come aloft <hi>Socrates,</hi> and what of him? why of him thus: page 51. <hi>Some men might have the fame of greater learning, but the Oracle pronounced</hi> Socrates <hi>the wisest man in</hi> Greece: therefore <hi>Marriage helps Learning.</hi> This Logick was well chopp'd; but for a little <hi>Learnings</hi> sake, let's consider, how knows our Author that any had a greater Fame for <hi>learn<g ref="char:EOLhyphen"/>ing</hi> than <hi>Socrates,</hi> while we read that it was accoun<g ref="char:EOLhyphen"/>ted a proud speech of him to say, <hi>Hoc scio quod ni<g ref="char:EOLhyphen"/>hil scio?</hi> because he knew so much; also that his mind run so much on his Book, that a little before his death he desired to <hi>learn</hi> Musick, because he would die still learning something.</p>
+            <p>Sir, such instances as these (methinks) had better serv'd his turn for the <hi>help</hi> of learning, than that <hi>some might have greater fame of learning,</hi> &amp;c.</p>
+            <p>But let that go which way it will, <hi>Marriage does help Learning</hi> still, ay that it does, and for no small
+<pb n="12" facs="tcp:204280:9"/>reason neither, <hi>The Oracle pronounced</hi> Socrates <hi>the wisest man in</hi> Greece. What credit the Heathen Oracle has in the opinion of my Brother <hi>Batchelor,</hi> he best knows (their way of <hi>uttering</hi> he seems to imitate) let's examine the truth of the <hi>Oracles</hi> pro<g ref="char:EOLhyphen"/>nouncing (supposing first, that his <hi>wisdom</hi> must make out the <hi>learning</hi> of that Age, which (out of good nature) I'le grant, (expecting he'l do me a good <hi>turn</hi> another time.)</p>
+            <p>But whence are we to conclude <hi>this wisdom</hi> of <hi>So<g ref="char:EOLhyphen"/>crates;</hi> no instance is given, but the <hi>ipse dixit</hi> of the <hi>Oracle;</hi> if his <hi>wisdom</hi> lay in <hi>Morals. Oracle</hi> was out, or a prime <hi>Father</hi> of the Latine Church, who says that the <hi>Athenians</hi> gave sentence against <hi>Socra<g ref="char:EOLhyphen"/>tes,</hi> as a <hi>defiler</hi> of young boys: now whether <hi>Hea<g ref="char:EOLhyphen"/>then Oracle</hi> or <hi>Tertullian</hi> be of most Credit, I won't dispute.</p>
+            <p>Well, but <hi>Marriage helps Learning,</hi> for <hi>Socrates</hi> was <hi>wise</hi> for all this; ay, and the <hi>wisest</hi> in all <hi>Greece;</hi> for <hi>Oracle</hi> could not be mistaken: no, no mistake in <hi>Oracle</hi> sure, <hi>wisest</hi> he was, for he was <hi>married.</hi>
+            </p>
+            <p>Was no <hi>wise</hi> man in <hi>Greece</hi> married but <hi>Socra<g ref="char:EOLhyphen"/>tes?</hi> let that go too: <hi>married</hi> he was and that made him <hi>wisest,</hi> though not the <hi>learnedest;</hi> and so <hi>Marriage helps learning.</hi>
+            </p>
+            <p>Well, <hi>Married, Learned, wise; married with a mischief!</hi> I believe if truth were known my Bro<g ref="char:EOLhyphen"/>ther <hi>Singleman</hi> and <hi>I</hi> would not think our selves e're the wiser for being so <hi>married.</hi>
+            </p>
+            <p>Sir, I'le appeal to you, do not you think it <hi>wis<g ref="char:EOLhyphen"/>dom</hi> to keep out of a <hi>shrews</hi> clutches; and (indeed lo) I've credibly been informed, that <hi>Xantippe</hi> was a <hi>notable</hi> woman; nay, that she was an errand <hi>scold;</hi> and so perverse that <hi>Aelian</hi> says, she put on her <hi>worst</hi> clothes to go to a great <hi>show,</hi> because her hus<g ref="char:EOLhyphen"/>band <hi>desir'd</hi> her to put on her <hi>best:</hi> O how she dif<g ref="char:EOLhyphen"/>fers from the women of this <hi>Age.</hi>
+            </p>
+            <pb n="13" facs="tcp:204280:9"/>
+            <p> But (to go on Sir in this <hi>Track</hi> of <hi>Wisdom</hi> and Argument of <hi>helping Learning</hi>) as <hi>Socrates</hi> once sate in deep meditation under Sun-shine. This <hi>parlous</hi> woman, out of the Chamber window, em<g ref="char:EOLhyphen"/>pties a Chamber-pot on his head; not out of pro<g ref="char:EOLhyphen"/>vocation, but meerly to keep good <hi>bumours</hi> work<g ref="char:EOLhyphen"/>ing, and to increase <hi>Wisdom;</hi> and so it fell out, that from <hi>hence</hi> and from such <hi>occasions</hi> as these, he gave the world account of his <hi>wisdom,</hi> for when she <hi>scolded</hi> he held his peace; and to this last <hi>trick</hi> he said (easily to himself, he durst not speak out) I thought we should have a shoure after so much <hi>Thunder.</hi>
+            </p>
+            <p>Thus Sir, is the Argument for <hi>learning help'd by Marriage</hi> cleared, and the wisdom of <hi>Socrates,</hi> as being married to a <hi>wrangling</hi> bed-fellow; for <hi>page</hi> 91. <hi>Vertue hardly acquired is best.</hi> page 53. <hi>Marriage was a model of Government to after ages of the world;</hi> what then?</p>
+            <p>It follows then that <hi>Marriage</hi> is <hi>Marriage</hi> still, and ought to have <hi>Government</hi> in it: ay, and if <hi>Epistle</hi> says true, you may live a vertuous <hi>single</hi> life; and if <hi>Book</hi> says true, you may live a vertuous <hi>married</hi> life as you please, chuse whether.</p>
+            <p>Page 60. <hi>Marriage is lawful,</hi> and <hi>convenient</hi> too; for <hi>married men dread Wars,</hi> therefore Sir, if you'l <hi>sleep</hi> in a whole skin or two, marry.</p>
+            <p>Page 66. <hi>Marriage makes repose,</hi> i. e. in its <hi>Circle;</hi> therefore so does <hi>single</hi> life in the shade with <hi>Anto<g ref="char:EOLhyphen"/>nia,</hi> like <hi>Snow in cold houses:</hi> as he says.</p>
+            <p>Page 69. Marriage affords the <hi>honour of issue,</hi> and <hi>nothing was esteemed of old more honour than many Children.</hi>
+            </p>
+            <p>This (because of its weight) ought to be inforc'd: by the <hi>Julian</hi> Law in <hi>Rome,</hi> precedency was given to him who had most Children; and in <hi>Florence,</hi> he who had five children was exempt from Im<g ref="char:EOLhyphen"/>posts, Subsidies, and Taxes: Thus it was in <hi>old
+<pb n="14" facs="tcp:204280:10"/>time.</hi> Therefore it follows now in <hi>new times,</hi> and in <hi>England,</hi> that Marriage is <hi>lawful;</hi> only I think <hi>precedency</hi> goes not here by that law, not the payment of Taxes; but it may be a seasonable hint to the <hi>Parliament</hi> in the next <hi>Subsidy</hi> for equal<g ref="char:EOLhyphen"/>ling payments; for most commonly the poor <hi>Vicar,</hi> and healthy <hi>Countrey</hi> Labourer have the best <hi>gift</hi> that way; and their <hi>Issue</hi> prove mostly but <hi>Candidates</hi> for <hi>Alms.</hi>
+            </p>
+            <p>Well, by <hi>Marriage</hi> you have not only the <hi>honour</hi> of <hi>Issue</hi> as aforesaid, but thereby page 74. The <hi>glory of your name</hi> shall be preserved by an <hi>Interest remaining beyond the Grave.</hi>
+            </p>
+            <p>This is something indeed on behalf of Marriage, had not one told us in his <hi>Reflections on Marriage</hi> at the same time, of a <hi>better</hi> way of getting the <hi>Immortal</hi> Fame of a <hi>Hero;</hi> and in his Epistle to <hi>Antonia,</hi> of <hi>Immortalizing beyond Marble,</hi> even by <hi>perpetual abiding Letters,</hi> i. e. by writing <hi>Books:</hi> So that it seems, Sir, to some, that by our Authors Conceit, however he treats <hi>Marriage,</hi> he does but <hi>wheadle,</hi> while the <hi>Issue</hi> of the <hi>brain</hi> he affirms more durable than that of the <hi>body.</hi> However, I think, that the instance of our Author, (of <hi>Agrip<g ref="char:EOLhyphen"/>pina</hi>'s desire of her Sons <hi>reigning,</hi> though with her <hi>death</hi>) might be a piece of ambition and vain<g ref="char:EOLhyphen"/>glory.</p>
+            <p>Page 79. <hi>Marriage perpetuates Vertue;</hi> this is to be understood <hi>if</hi> the Children take right, or the soul be convey'd by <hi>Traduction,</hi> otherwise the Gentleman (by his own report) can <hi>preserve vir<g ref="char:EOLhyphen"/>tue</hi> as long.</p>
+            <p>Well, but what if <hi>Infants have been carried in Ancient Wars to incourage Battels?</hi> why then I say, in ancient times also <hi>Wives</hi> used to go with their <hi>Husbands</hi> into the Wars, and the <hi>Tyrian</hi> Wives helped their Husbands out of Prison at <hi>Lacedaemon,</hi> and the <hi>Bavarian</hi> Wives, having liberty granted by
+<pb n="15" facs="tcp:204280:10"/>
+               <hi>Conrade</hi> the Third to carry away their goods on their back) carried away their Husbands: So did the Spanish Lady at <hi>Cales</hi> serve an <hi>old</hi> Husband; and what of all this?</p>
+            <p>Then, Sir, its to be considered, if it be not ad<g ref="char:EOLhyphen"/>viseable, at this <hi>Conjuncture,</hi> that our <hi>Army</hi> going into <hi>France</hi> should carry their Children in their <hi>Knapsacks</hi> to <hi>incourage</hi> them, and their <hi>Wives</hi> to get them out of <hi>Prison,</hi> and so travail <hi>Bag</hi> and <hi>Bag<g ref="char:EOLhyphen"/>gage.</hi>
+            </p>
+            <p>Further, page 84. <hi>Marriage helps practical Virtue,</hi> how does that appear? why, <hi>Pompey</hi> left <hi>Gallant Sons,</hi> he did so, and I'le help him forward: An Idolater in <hi>Ur</hi> of the <hi>Chaldees</hi> was Father of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> such another of <hi>Tertullian,</hi> and a Gentile of <hi>Timothy:</hi> And of the other side instances may be of many <hi>virtuous</hi> Parents who have had rude Chil<g ref="char:EOLhyphen"/>dren; insomuch that some think its hard to make out, that <hi>practical Virtue</hi> is transferr'd by the <hi>Ve<g ref="char:EOLhyphen"/>hicle</hi> of Generation.</p>
+            <p>Besides, the <hi>Adversary wits</hi> laugh, and say, that without Marriage, the <hi>Skinners Daughter</hi> (for I'le write blanck too) brought forth the great <hi>Norman,</hi> our <hi>Common</hi> Ancestor. And the <hi>Spanish Player</hi> fur<g ref="char:EOLhyphen"/>nished Christendom with the <hi>great Don John</hi> who faced the <hi>Grand Seignior:</hi> but no more of that.</p>
+            <p>Page 93. Married people have been by <hi>all ages allowed for Hero's, deified and served with Altars;</hi> still stronger and stronger: only, it seems to fol<g ref="char:EOLhyphen"/>low that there are other ways, besides <hi>dexterous pens to procure men the Immortal Fame of He<g ref="char:EOLhyphen"/>roes</hi>
+            </p>
+            <p>And here the <hi>Wits</hi> laugh again like <hi>vile</hi> lads, and say that <hi>Mars, Mercury, Minerva, Apollo, Bacchus,</hi> and <hi>Sterculus</hi> &amp;c. were <hi>deified</hi> and <hi>serv'd with Al<g ref="char:EOLhyphen"/>tars;</hi> and its believed that <hi>some</hi> of them were ne<g ref="char:EOLhyphen"/>ver <hi>married.</hi>
+            </p>
+            <p>To go on, page 93. <hi>Rome owed its being and
+<pb n="16" facs="tcp:204280:11"/>safety to the perswasions of a Mother;</hi> and therefore <hi>Marriage</hi> is lawful.</p>
+            <p>At this the <hi>Prophane Wits</hi> laugh another time, and <hi>say,</hi> that the <hi>Protestant Cause,</hi> and the <hi>Common<g ref="char:EOLhyphen"/>wealth</hi> of the <hi>Netherlands</hi> owe their <hi>being</hi> to a <hi>Maiden Queen;</hi> therefore <hi>single life</hi> is very expe<g ref="char:EOLhyphen"/>dient.</p>
+            <p>On still, page 100. <hi>Marriage assists mankind with a mind vigorous and constant in its Circles:</hi> And page 101, the virtue of <hi>Brutus</hi> is highly commen<g ref="char:EOLhyphen"/>ded, in <hi>religiously</hi> prizing the <hi>married</hi> state, and having a <hi>good Wife.</hi>
+            </p>
+            <p>Sir, as to the <hi>Circles</hi> of <hi>Marriage,</hi> I've nothing to do yet; yet as to <hi>Brutus,</hi> I hope he means not <hi>Brutus</hi> the <hi>Traitor</hi> (who murdered <hi>Julius Caesar</hi>) that does thus <hi>Religiously prize,</hi> &amp;c. For page 61, 62. who would commit Treason that has a <hi>loving Wife leaning on his bosom, and Innocent Children hanging about his knees?</hi> so that married men having (by it) a <hi>vigorous mind,</hi> do <hi>prize it religiously,</hi> and commit no <hi>Treason.</hi>
+            </p>
+            <p>A shame take this <hi>Brutus</hi> for me, who has <hi>kill'd</hi> (not only a good <hi>Emperor,</hi> but) a good Argument to <hi>boot.</hi>
+            </p>
+            <p>Pray, Sir, wish our Writer to be more careful, in his <hi>discourses</hi> for I can't help him out, do what I can, and you see I endeavour it after my fashion, till I'm grown so weary, as I must give over, only having shown the very <hi>upper Tire</hi> of his <hi>Militia,</hi> I shall but show you some <hi>Blunderbusses</hi> that (<hi>Euphe<g ref="char:EOLhyphen"/>niae gratia</hi> I suppose) are brought in to help the <hi>noise:</hi> one is charged against <hi>Philosophy</hi> and <hi>Philo<g ref="char:EOLhyphen"/>sophers.</hi> Page 2. the <hi>little Modern Philosopher.</hi> Page 144. The <hi>New Philosophers.</hi> Page 107. <hi>Hunting wild and thin Idaea's in sport, through the Barren Re<g ref="char:EOLhyphen"/>gions of Philosophy.</hi> Thus, jeering (at once) at <hi>all learning,</hi> and showing himself the <hi>Notable Phi<g ref="char:EOLhyphen"/>losopher</hi> we spoke of before.</p>
+            <pb n="17" facs="tcp:204280:11"/>
+            <p> Then, Sir, (according to a bad use he has gotten) he's on the jack of the present <hi>Age,</hi> calling it, page 3. <hi>Barbarous Age,</hi> Page 123. The <hi>Extravigan<g ref="char:EOLhyphen"/>ces of this Age.</hi> 124. <hi>This Age is like to be branded amongst all the lustres of successions as the most disinge<g ref="char:EOLhyphen"/>nious that ever was;</hi> and (because it may appear he means <hi>again</hi> but <hi>some few</hi>) page 125. (by a contra<g ref="char:EOLhyphen"/>ry figure) he says <hi>no man makes it his business to be serious in any thing.</hi> Alack, Alack, how, no <hi>man?</hi> his own self, nevertheless (I hope) always excepted; witness the <hi>virtuous Batchelor, recounting in the shade to Antonia,</hi> And if the worst comes to the worst, it's but synechdochizing <hi>none</hi> into <hi>some,</hi> or at wor<g ref="char:EOLhyphen"/>ser still (if it may be) adding <hi>some,</hi> and then it will be, <hi>no-some-man</hi> will help at a dead lift.</p>
+            <p>Then, Sir, to conclude this Battel, and com<g ref="char:EOLhyphen"/>pleat the <hi>Victory,</hi> forth comes a <hi>Granado</hi> stuft with direful knacks, and is thrown into the <hi>Cloysters,</hi> with Authority to destroy what is <hi>there sullenness;</hi> but in the <hi>shade</hi> with <hi>Antonia, Gallantry,</hi> and <hi>Virtue.</hi>
+            </p>
+            <p>I must here observe, Sir, that there is a <hi>Geneva Maggot,</hi> that gets (I know not how) into some mens Crowns, and makes them very <hi>Wrathful, Fearful,</hi> and <hi>Spightful;</hi> fulls enough in all con<g ref="char:EOLhyphen"/>science. It will possess a <hi>Noddle</hi> with apprehensi<g ref="char:EOLhyphen"/>ons of <hi>terrible</hi> dangers and <hi>woful</hi> events, which arise in <hi>some</hi> places and from <hi>some</hi> persons.</p>
+            <p>As for example, if one names <hi>Rome,</hi> it makes the man take his <hi>rise</hi> and skip from <hi>Italy</hi> into <hi>Scot<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>At the naming of a <hi>Monk, Frier,</hi> or perhaps but a <hi>Papist,</hi> he takes his <hi>heels</hi> and runs out of sight (if not out of his <hi>wits</hi>) at least till he thinks himself out of <hi>harms</hi> way, and then takes another run, and runs himself out of <hi>breath,</hi> prodigalling his Lungs in such Oratory as this: p. 4. <hi>Ambushes of Cloysters, the un<g ref="char:EOLhyphen"/>married lives of the Romish Priests have been the causes
+<pb n="18" facs="tcp:204280:12"/>of great Calamities and Disorders in Kingdoms,</hi> doing great mischief. Page 64. <hi>Flinging about kindled fire<g ref="char:EOLhyphen"/>brands to inflame the world.</hi> Page 65. <hi>Putting Em<g ref="char:EOLhyphen"/>pires into Convulsions, with fire disguised in snow,</hi> and <hi>(because 'tis a good expression)</hi> Page 177. with <hi>fire disguised in snow halls.</hi> Page 52. The <hi>Priests vice non Continence, Cloysters of wretched lusts,</hi> the <hi>Jaques of the world; then was a night of knowing no<g ref="char:EOLhyphen"/>thing.</hi> And page 141. <hi>I cannot remember that the Cloysters obliged the world by many excellent perfor<g ref="char:EOLhyphen"/>mances.</hi>
+            </p>
+            <p>And (which is worse) when he is come to his <hi>breath,</hi> this fright has put him past coming to his <hi>memory,</hi> and so cannot <hi>remember</hi> what has been said (and truly too) of the unmarried <hi>Divines,</hi> even those of the <hi>Cloysters, viz.</hi> he that looks on their <hi>Books</hi> would think they did nothing but <hi>write,</hi> he that looks on their <hi>Devotions,</hi> would think they did nothing but <hi>pray;</hi> and he that looks on their <hi>Learn<g ref="char:EOLhyphen"/>ing</hi> would think they did nothing but <hi>read.</hi>
+            </p>
+            <p>Such was the <hi>night of knowing nothing,</hi> and such the <hi>performances,</hi> the Gentleman out of breath and memory could not <hi>remember.</hi>
+            </p>
+            <p>Sir, for my own part I am not of the <hi>Cloyster per<g ref="char:EOLhyphen"/>swasion,</hi> yet do I honour the learning and Piety of any <hi>dissenter,</hi> and can freely <hi>acquaint</hi> with him, while we differ not in the <hi>end</hi> of our <hi>Journey,</hi> bet in the <hi>way</hi> of our <hi>Travel.</hi>
+            </p>
+            <p>But my marvail is, Sir, what Authority <hi>this man</hi> has, to dub his own single life an <hi>Immortal</hi> Virtue, and of others an Everlasting <hi>Vice;</hi> why he should <hi>Hallow</hi> the <hi>Shade</hi> with <hi>Antonia,</hi> and <hi>Hel<g ref="char:EOLhyphen"/>lize</hi> the <hi>Cloyster</hi> of Mrs. <hi>Abbess,</hi> you Sir, are to judge of these things, amongst the <hi>rest,</hi> and so I leave them.</p>
+            <p>A word only to his <hi>Poetick Discipline,</hi> and I find he has taken much pains to trace <hi>Love</hi> through all the <hi>Poets.</hi>
+            </p>
+            <pb n="19" facs="tcp:204280:12"/>
+            <p> The old <hi>Poets</hi> (it seems) made <hi>Love serious</hi> and <hi>sober</hi> (like <hi>Antonia</hi> no doubt.)</p>
+            <p>After <hi>Poets</hi> brought it to <hi>Courts</hi> and <hi>Armies,</hi> and perhaps it may meet <hi>our Author</hi> in the <hi>Fleet</hi> this <hi>spring;</hi> let him and <hi>Antonia</hi> look to it.</p>
+            <p>After it was brought, (by I know not who, nor he neither) into the <hi>Cloysters,</hi> and there <hi>It</hi> did, no <hi>Body</hi> knows what, but it turn'd there (he says) into <hi>Vice.</hi>
+            </p>
+            <p>
+               <hi>Modern Poets</hi> have brought it on the <hi>Stage,</hi> and for the Authors sake of <hi>Marriage Alamade, Love in a Tub,</hi> or <hi>Love in a Nunnery,</hi> or some such thing. Whats become—what? why, its become the exact scheme of <hi>Poetick Discipline.</hi>
+            </p>
+            <p>
+               <hi>Poetick Discipline</hi> was I thinking? aye, and of <hi>uxoriousness,</hi> and <hi>Reflections</hi> on <hi>Praise</hi> of <hi>Marriage,</hi> and some other things, I could not <hi>make sence</hi> of; and so I <hi>made</hi> an <hi>end</hi> with this short Conclusion by way of modest <hi>Quaere,</hi> having first found by expe<g ref="char:EOLhyphen"/>rience that a man of <hi>some</hi> parts may <hi>prove,</hi> that the Sun shines <hi>sometimes,</hi> that its <hi>light</hi> and <hi>heat</hi> are <hi>comfortable,</hi> and that humane bodies are <hi>influenc'd</hi> hereby, but withal that same man may not prove that <hi>Hereules</hi> and his twelve labours signifie but the <hi>Suns</hi> going through the 12 Signs of the Zodiack; and so to the Quere.</p>
+            <p>Whether a Batchelor writing a <hi>Book</hi> of 198 pa<g ref="char:EOLhyphen"/>ges (besides <hi>Philacteries</hi>) in praise of <hi>Marriage;</hi> in it Commending (in the first place) himself in <hi>Sera<g ref="char:EOLhyphen"/>phick</hi> lines for his <hi>single</hi> life, next for the <hi>Generosity</hi> he <hi>found about him to perform an act of so much Justice;</hi> for his <hi>dexterousness</hi> in doing it, for his <hi>virtuous</hi> en<g ref="char:EOLhyphen"/>tertainment of virtuous <hi>Antonia</hi> in the shade, then arguing <hi>Inconsequentially,</hi> using improper <hi>Mediums,</hi> proving <hi>Generals</hi> by <hi>Particulars;</hi> at the same time defying <hi>Philosophers,</hi> rebuking the <hi>Age,</hi> reproving he knows not whom, or at most but some <hi>few,</hi> cloud<g ref="char:EOLhyphen"/>ing his subject over with <hi>talk,</hi> till its like the needle
+<pb n="20" facs="tcp:204280:13"/>in the <hi>Hay,</hi> or the <hi>Treasure under ground,</hi> mentioned in page 155. And in the Epistle to <hi>Antonia;</hi> and printing this too, whereby (as he says) page 147. <hi>Wit</hi> (such as it is) <hi>makes such a noise as disturbs the Quiet and serious Affairs of the world:</hi> and ending with an unintelligible <hi>Poetick Discipline.</hi>
+            </p>
+            <p>Whether I say, all this be done without <hi>Affecta<g ref="char:EOLhyphen"/>tion</hi> or <hi>busie Humour, I</hi> leave also, with this Adver<g ref="char:EOLhyphen"/>tisement (for his good) <hi>viz.</hi> he who knows how and when to hold his peace, put in his name among the famous Orators.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204280:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
